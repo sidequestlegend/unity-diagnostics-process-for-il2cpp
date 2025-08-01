@@ -1,0 +1,10 @@
+{
+  "name": "unity.diagnostics.process",
+  "version": "0.0.1",
+  "displayName": "Unity Diagnostics Process",
+  "description": "This package contains an il2cpp compatible verison of System.Diagnostics.Process",
+  "author": {
+    "name": "zadr-goodai",
+    "url": "https://github.com/zadr-goodai"
+  }
+}
